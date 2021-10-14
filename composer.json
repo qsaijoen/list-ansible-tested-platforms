@@ -1,0 +1,11 @@
+{
+    "name": "qsaijoen/list-ansible-tested-platforms",
+    "description": "Simple php script to scan a directory containing Ansible roles and lists for each role which platforms are tested by Molecule",
+    "type": "project",
+    "license": "MIT",
+    "require": {},
+    "require-dev":
+    {
+      "squizlabs/php_codesniffer": "3.*"
+    }
+}
